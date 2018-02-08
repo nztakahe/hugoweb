@@ -1,0 +1,62 @@
+baseURL = "https://nztakahe.github.io/"
+languageCode = "en-us"
+title = "Dwarfstar sysops notes"
+theme = "hugo-theme-nix"
+disableHugoGeneratorInject = true
+
+#https://github.com/hnarayanan/harishnarayanan.org/blob/master/config.yml
+#pluralizeListTitles: false
+#staticDir: assets
+#taxonomies: false
+
+[params]
+  GithubID = "nztakahe"
+#  BitbucketID = "your_bitbucket_id"
+#  TwitterID = "your_twitter"
+#  CodepenID = "your_codepen"
+  LinkedInID = "michael-menzies"
+  FacebookID = "your_facebook"
+  Name = "Michael Menzies"
+  HeaderUsername = "michael"
+  HeaderHostname = "dwarfstar"
+  Email = "noreply@dwarfstar.co.nz"
+  About = "Geek!"
+  ProfilePicture = "/looksbetter.png"
+  GoogleAnalytics = ""
+  SlackURL = "https://dwarf-star.slack.com/"
+
+[menu]
+  [[menu.header]]
+    name = "posts"
+    weight = 0
+    url = "/posts"
+
+  [[menu.header]]
+    name = "about"
+    weight = 1
+    url = "/about"
+
+
+[params.bleak]
+Subtitle = "Subtitle"
+description = "ramblings and notes for techops"
+# cover = "images/cover.jpg"
+
+# Google analytics
+googleAnalyticsUserID = "UA-113773767-1"
+domainVerification = "googled743524e0e45f29c"
+#  disqus = "xxxxxxxxx"
+
+[params.author]
+  firstName = "Michael"
+  lastName = "Menzies"
+  userName = "nztakahe"
+  website = "www.dwarfstar.co.nz"
+  github = "nztakahe"
+
+#    twitter = "xxxxxxx"
+#   facebook = "xxxxxxxxx"
+#    linkedin = "xxxxxxxxx"
+#    gplus = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+#    gravatarHash = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+# image = "//www.gravatar.com/avatar/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.png"
