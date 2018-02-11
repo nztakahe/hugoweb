@@ -1,7 +1,7 @@
 ---
-title: "Teaching Programming to kids"
+title: "Teaching Programming to 8 year olds"
 date: 2018-02-11T12:00:00+13:00
-draft: true
+draft: false
 ---
 
 A friend of mine started doing [Code Club](https://codeclub.nz/) at the local schools.  With the recent christmas holidays I thought it would be a great Father and Son project.
