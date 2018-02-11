@@ -1,6 +1,8 @@
+## Getting started
+git clone https://github.com/nztakahe/hugoweb.git
+hugo serve
 
 
-
-## 
-git submodule add https://github.com/budparr/gohugo-theme-ananke.git themes/ananke;
+## Adding a theme as a submodule 
+git submodule add https://github.com/LordMathis/hugo-theme-nix.git themes/hugo-theme-nix;
 
