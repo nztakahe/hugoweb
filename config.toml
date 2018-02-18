@@ -22,7 +22,7 @@ disableHugoGeneratorInject = true
   Email = "noreply@dwarfstar.co.nz"
   About = "Geek!"
   ProfilePicture = "/looksbetter.png"
-  GoogleAnalytics = ""
+  GoogleAnalytics = "UA-113773767-1"
   SlackURL = "https://dwarf-star.slack.com/"
 
 [menu]
@@ -36,27 +36,3 @@ disableHugoGeneratorInject = true
     weight = 1
     url = "/about"
 
-
-[params.bleak]
-Subtitle = "Subtitle"
-description = "ramblings and notes for techops"
-# cover = "images/cover.jpg"
-
-# Google analytics
-googleAnalyticsUserID = "UA-113773767-1"
-domainVerification = "googled743524e0e45f29c"
-#  disqus = "xxxxxxxxx"
-
-[params.author]
-  firstName = "Michael"
-  lastName = "Menzies"
-  userName = "nztakahe"
-  website = "www.dwarfstar.co.nz"
-  github = "nztakahe"
-
-#    twitter = "xxxxxxx"
-#   facebook = "xxxxxxxxx"
-#    linkedin = "xxxxxxxxx"
-#    gplus = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
-#    gravatarHash = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
-# image = "//www.gravatar.com/avatar/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.png"
