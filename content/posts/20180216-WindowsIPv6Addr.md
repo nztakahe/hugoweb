@@ -1,3 +1,10 @@
+---
+title: "IPv6 DNS static from somewhere"
+date: 2018-02-16T12:00:00+13:00
+draft: true
+---
+# IPv6 local DNS made Chrome slow after changing network.
+
 
 Ethernet Adapter under Hypervisor bridge had a static ipv6 dns server with a local IP address
 
