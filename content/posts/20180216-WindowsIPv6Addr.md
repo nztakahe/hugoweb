@@ -10,7 +10,7 @@ Ethernet Adapter under Hypervisor bridge had a static ipv6 dns server with a loc
 
 
 
-'''
+```
 *netsh int ipv6 sh int*
 
 Idx     Met         MTU          State                Name
@@ -19,10 +19,10 @@ Idx     Met         MTU          State                Name
   1          75  4294967295  connected     Loopback Pseudo-Interface 1
  15          35        1500  connected     vEthernet (vWireless)
  23          15        1500  connected     vEthernet (Default Switch)
-'''
+```
 
 
-'''
+```
 >*netsh int ipv6 show dnsservers*
 
 
@@ -49,11 +49,11 @@ Configuration for interface "Loopback Pseudo-Interface 1"
     Register with which suffix:           Primary only
 	
 	
-'''
+```
 
 
 
-'''
+```
 >*netsh int ipv6 sh addr*
 
 Interface 16: Local Area Connection* 3
@@ -79,4 +79,4 @@ Interface 23: vEthernet (Default Switch)
 Addr Type  DAD State   Valid Life Pref. Life Address
 ---------  ----------- ---------- ---------- ------------------------
 Other      Preferred     infinite   infinite fe80::8df7:1b8c:5751:2d4a%23
-'''
+```

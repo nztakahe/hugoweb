@@ -12,6 +12,7 @@ draft: true
 
 
 [git line-endings/](https://help.github.com/articles/dealing-with-line-endings/)
+[another git line endings](https://lostechies.com/keithdahlby/2011/04/06/windows-git-tip-hide-carriage-return-in-diff/)
 '''
 git config --global core.autocrlf true
 '''

@@ -4,9 +4,7 @@ date: 2018-02-15T12:00:00+13:00
 draft: true
 ---
 # Some node.js lessons
-
 When trying to do some node.js i did some quick searching for and IDE
-
 
 ## VS Code
 ### Install links
