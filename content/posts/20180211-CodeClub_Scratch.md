@@ -16,4 +16,6 @@ Personally It took me a little time before I realise that the pictures\sprites\c
 
 While teaching my son, my parents - his grand parents - thinking what it might have been like if theses tools were available in the dark ages of my youth.  I will be honest, BASIC on the Commodore 64 never gave me the best programming skills. [Linus Torvalds] (https://blog.codinghorror.com/linus-torvalds-visual-basic-fan/) appearantly doesnt agree.
 
+{{< figure src="/20180211/Scratch.jpg" title="Learning Scratch figure" class="center" width="600"  >}}
+
 Thankfully I never had to learn [LOGO](https://en.wikipedia.org/wiki/Logo_(programming_language)).
