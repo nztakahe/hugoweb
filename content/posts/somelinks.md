@@ -5,7 +5,18 @@ draft: true
 ---
 # Some Links
 [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+[ShortCodes](https://gohugo.io/content-management/shortcodes/)
 
+## Different ways to add photos hugo shortcode and raw image
+'''
+{{< figure src="/20180211/Scratch.jpg" title="Learning Scratch figure" class="center" width="600"  >}}
+
+![Learning Scratch Raw](/20180211/Scratch.jpg)
+'''
+
+
+
+Markdown Tables need a line space or Header otherwise it doesn't 
 
 |Link|Description|
 |---|---|
