@@ -1,6 +1,6 @@
 ---
 title: "My First Published Hugo Post"
-date: 2018-02-08T11:15:21+13:00
+date: 2018-02-08T12:00:00+13:00
 draft: false
 ---
 * Static HTML Generators
@@ -21,11 +21,13 @@ I also came across the git submodule commands for themes
 ```
    git submodule add https://github.com/budparr/gohugo-theme-ananke.git themes/ananke;\
 ```
-and [later](https://gohugo.io/hosting-and-deployment/hosting-on-github/) with the build process.  However when attempting the process from a different laptop the build\submodule update process has not worked as expected.
+I still have some knowledge gaps with the git submodule.
 
-In summary I still have some knowledge gaps with the git submodule.  The current workaround is doing using a git clone in a different folder and using the hugo build folder  '''hugo -d "..\nztakahe.github.io"''' and doing a git commit -a -m "Site rebuild" from that directory.  Another work in progress.
+** Build and Deploy
+Hugo has the following [article](https://gohugo.io/hosting-and-deployment/) for build and hosting.  I have not mastered the submodule process and workaround is using a different folder and using the hugo build folder  '''hugo -d "..\nztakahe.github.io"''' and doing a git commit -a -m "Site rebuild" from that directory.
 
-** Notes
-This [source](https://github.com/gohugoio/hugoDocs) appears to be [Hugo Website](https://gohugo.io/getting-started) for some future reference.
+
+** Other Notes
+This [source](https://github.com/gohugoio/hugoDocs) appears to be source for [Hugo Website](https://gohugo.io/getting-started) for some future reference.
 
 

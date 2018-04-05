@@ -20,17 +20,20 @@ After some setting up environment, downloading the functions local environment i
 functions settings file is stored in windows %userprofile%\.config\configstore\@google-cloud\functions-emulator\config.json
 
 
-
-
+## Firebase 
 With some more searching I found a similar feature Firebase Functions.  Without further investigating this probably calls cloud functions but includes some internal firebase features like (Remote Config)[https://firebase.google.com/docs/remote-config/]
 # Enable connecting from remote IP by command line
-functions start --bindHost 0.0.0.0
+functions start --bindHost 0.0.0.0  --tail (keeps)
 # Enable connecting from remote IP (config)
 functions config set bindHost 0.0.0.0
 
 
 ## ToDo: See if I can get authentication working
 https://cloud.google.com/solutions/authentication-in-http-cloud-functions
+
+
+## Routing requests
+http://abe.ghost.io/advaned-url-routing-in-google-cloud-functions-for-firebase/
 
 
 

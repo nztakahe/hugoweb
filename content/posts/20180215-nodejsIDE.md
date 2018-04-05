@@ -3,8 +3,11 @@ title: "node.js lessons"
 date: 2018-02-15T12:00:00+13:00
 draft: true
 ---
-# Some node.js lessons
-When trying to do some node.js i did some quick searching for and IDE
+# IDE editor
+In retrospect the following article comparing [IDE Editors](https://www.codementor.io/mattgoldspink/best-text-editor-atom-sublime-vim-visual-studio-code-du10872i7]).
+
+## Some node.js lessons
+When trying to do some node.js i did some quick searching for and IDE.
 
 ## VS Code
 ### Install links

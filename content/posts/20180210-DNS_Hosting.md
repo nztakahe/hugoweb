@@ -24,5 +24,10 @@ I ran into the following one day -  A google developer presenting to other devel
 
 
 ## Some other links 
-[Chrome Internals](chrome://net-internals/#dns) chrome://net-internals/#dns
+[Chrome Internals](chrome://net-internals/#dns)
 
+### DNS Providers
+[Free Parking](https://www.freeparking.co.nz)
+[DNS Made Easy](https://dnsmadeeasy.com)
+[Go Daddy](https://www.godaddy.com)
+[Domains For Less](https://www.domains4less.co.nz)   managed [here](https://controlpanel.secureserver.co.nz/)

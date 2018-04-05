@@ -48,3 +48,9 @@ echo ':color desert' >> ~/.vimrc
 [Shortcuts](https://linuxacademy.com/blog/linux/vi-short-cuts-for-beginners/)
 
 ToDo: Evalutate some of the following.  Consider moving the settings into git and review https://gist.github.com/millermedeiros/1262085
+
+
+
+### Git Modules
+[Git Modules](https://chrisjean.com/git-submodules-adding-using-removing-and-updating/)
+Had issues doing updates with generated code on Hugo.

@@ -3,16 +3,17 @@ title: "IPv6 DNS static from somewhere"
 date: 2018-02-16T12:00:00+13:00
 draft: true
 ---
-# IPv6 local DNS made Chrome slow after changing network.
-
+## IPv6 local DNS made Chrome slow after changing network.
 
 Ethernet Adapter under Hypervisor bridge had a static ipv6 dns server with a local IP address
 
+Somewhere a static DNS server configured to fe80::1%15 which is in the ipv6 Link-Local Unicast range
 
 
 ```
 *netsh int ipv6 sh int*
-
+```
+```
 Idx     Met         MTU          State                Name
 ---  ----------  ----------  ------------  ---------------------------
  16          25        1500  disconnected  Local Area Connection* 3
@@ -21,11 +22,11 @@ Idx     Met         MTU          State                Name
  23          15        1500  connected     vEthernet (Default Switch)
 ```
 
-
 ```
 >*netsh int ipv6 show dnsservers*
+```
 
-
+```
 Configuration for interface "vEthernet (Default Switch)"
     DNS servers configured through DHCP:  fec0:0:0:ffff::1%1
                                           fec0:0:0:ffff::2%1
@@ -52,10 +53,10 @@ Configuration for interface "Loopback Pseudo-Interface 1"
 ```
 
 
-
 ```
 >*netsh int ipv6 sh addr*
-
+```
+```
 Interface 16: Local Area Connection* 3
 
 Addr Type  DAD State   Valid Life Pref. Life Address
