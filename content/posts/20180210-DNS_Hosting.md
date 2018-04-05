@@ -27,7 +27,7 @@ I ran into the following one day -  A google developer presenting to other devel
 [Chrome Internals](chrome://net-internals/#dns)
 
 ### DNS Providers
-[Free Parking](https://www.freeparking.co.nz)
-[DNS Made Easy](https://dnsmadeeasy.com)
-[Go Daddy](https://www.godaddy.com)
-[Domains For Less](https://www.domains4less.co.nz)   managed [here](https://controlpanel.secureserver.co.nz/)
+1. [Free Parking](https://www.freeparking.co.nz)
+2. [DNS Made Easy](https://dnsmadeeasy.com)
+3. [Go Daddy](https://www.godaddy.com)
+4. [Domains For Less](https://www.domains4less.co.nz) which is managed [here](https://controlpanel.secureserver.co.nz/)
