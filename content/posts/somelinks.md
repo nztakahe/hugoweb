@@ -8,11 +8,10 @@ draft: true
 [ShortCodes](https://gohugo.io/content-management/shortcodes/)
 
 ## Different ways to add photos hugo shortcode and raw image
-'''
-{{< figure src="/20180211/Scratch.jpg" title="Learning Scratch figure" class="center" width="600"  >}}
-
-![Learning Scratch Raw](/20180211/Scratch.jpg)
-'''
+```
+ #{{< figure src="/20180211/Scratch.jpg" title="Learning Scratch figure" class="center" width="600"  >}}
+ ![Learning Scratch Raw](/20180211/Scratch.jpg)
+```
 
 
 
@@ -24,13 +23,17 @@ Markdown Tables need a line space or Header otherwise it doesn't
    
 
 ## Books in the library
-Code Complete SecondEdition
-Csharp_4dot0_in_a_Nutshell_Fourth_Edition
-Mastering Object-oriented Python
-Mastering Python Data Visualization
-
-
++ Code Complete SecondEdition
++ Csharp_4dot0_in_a_Nutshell_Fourth_Edition
++ Mastering Object-oriented Python
++ Mastering Python Data Visualization
++ SCE
 ##Books I would like to read
 Practical Monitoring by Mike Julian
 
-
+# Shell snippets
+### Generate Password
+```
+export PASSWORD=`openssl rand -base64 15`; echo "Your password is $PASSWORD"; sed -i.bak s#CHANGE_ME#$PASSWORD# replacefile
+```
+I used to use ```apg -n 20 -m 20```
