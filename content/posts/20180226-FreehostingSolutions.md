@@ -3,12 +3,13 @@ title: "Free Hosting solutions"
 date: 2018-02-26T12:00:00+13:00
 draft: true
 ---
-# Free Hosting Solutions
+# Hosting Solutions
 
-## github pages
+# Free options (all support ssl)
+[GitHub pages](https://pages.github.com/)
+[Google Firebase](https://firebase.google.com/)
+[Netlify](https://www.netlify.com/)
+[Heroku](https://www.heroku.com/)
 
-## Google Firebase
-
-## Heroku
-https://www.heroku.com/
-https://www.heroku.com/free
+# Content site builder
+[Wix](http://www.wix.com/)
