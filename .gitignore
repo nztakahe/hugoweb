@@ -1,6 +1,7 @@
 # Hugo default output directory
 public/
 SERVER/
+.vs/
 
 ## OS Files
 # Windows
