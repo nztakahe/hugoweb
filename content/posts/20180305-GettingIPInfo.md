@@ -29,13 +29,16 @@ In the process of learing how to develop in Node I have been working on collecti
 | 224.0.0.0/24 | Local Block Control |
 | 224.0.1.0/24 | Internetwork Control Block |
 
-
 ## Online Database that already have most of the data I was trying to collect 
 https://dev.maxmind.com/geoip/geoip2
-
 
 ## Geo Lookup
 https://www.ip2location.com/demo
 
 ## Python Script
 https://github.com/secynic/ipwhois/
+
+## Top Level DNS
+[Go Project](https://github.com/zonedb/zonedb)
+[Mozilla project](https://publicsuffix.org/list/public_suffix_list.dat)
+
