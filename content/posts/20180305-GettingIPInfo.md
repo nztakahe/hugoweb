@@ -20,7 +20,7 @@ In the process of learing how to develop in Node I have been working on collecti
 | -------- | ----------- |
 | 10.0.0.0/8    | Private     |
 | 172.16.0.0/12 | Private     |
-| 192.168.0.0   | Private     |
+| 192.168.0.0/16   | Private     |
 
 
 ### [multicast](https://www.iana.org/assignments/multicast-addresses/multicast-addresses.xhtml)
@@ -30,15 +30,11 @@ In the process of learing how to develop in Node I have been working on collecti
 | 224.0.1.0/24 | Internetwork Control Block |
 
 ## Online Database that already have most of the data I was trying to collect 
-https://dev.maxmind.com/geoip/geoip2
-
-## Geo Lookup
-https://www.ip2location.com/demo
-
-## Python Script
-https://github.com/secynic/ipwhois/
++ [Maxmind](https://dev.maxmind.com/geoip/geoip2)
++ [Geo Lookup](https://www.ip2location.com/demo)
++ [Python Script](https://github.com/secynic/ipwhois/)
 
 ## Top Level DNS
-[Go Project](https://github.com/zonedb/zonedb)
-[Mozilla project](https://publicsuffix.org/list/public_suffix_list.dat)
++ [Go Project](https://github.com/zonedb/zonedb)
++ [Mozilla project](https://publicsuffix.org/list/public_suffix_list.dat)
 

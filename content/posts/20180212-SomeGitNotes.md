@@ -40,9 +40,14 @@ export PS1="\u@\h \[\033[32m\]\w\[\033[33m\]\$(parse_git_branch)\[\033[00m\] $ "
 
 
 ## Ubuntu VIM colour highlighting can be hard to read
-add ':color desert' to .vimrc (in the user home)
+add to .vimrc
++ ':color desert'       # Ubuntu 14/16 default caused me pain
++ 'set nocompatible'    # fixed the arrow keys.
 
+```
 echo ':color desert' >> ~/.vimrc
+```
+
 
 [Other Settings](https://dougblack.io/words/a-good-vimrc.html)
 [Shortcuts](https://linuxacademy.com/blog/linux/vi-short-cuts-for-beginners/)

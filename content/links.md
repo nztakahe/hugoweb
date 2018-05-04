@@ -23,3 +23,6 @@ date: 2018-01-01T12:00:00+13:00
 
 ## Random
 [Uncle Bob](https://www.youtube.com/watch?v=ecIWPzGEbFc)  Some history of software development - Uncle bob!
+
+# Quotes
++ "Everything is on the far side of hard work"  - [Tim Kennedy Interview | The Tim Ferriss Show](https://www.youtube.com/watch?v=5bvuKdJi0zk)

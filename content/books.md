@@ -1,40 +1,33 @@
 ---
-title: "Some Links"
+title: "Books"
 date: 2018-01-01T12:00:00+13:00
 draft: true
+permalink: /books/
 ---
-# Some Links
-[Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-[ShortCodes](https://gohugo.io/content-management/shortcodes/)
+# Books
 
-## Different ways to add photos hugo shortcode and raw image
-```
- #{{< figure src="/20180211/Scratch.jpg" title="Learning Scratch figure" class="center" width="600"  >}}
- ![Learning Scratch Raw](/20180211/Scratch.jpg)
-```
-
-Markdown Tables need a line space or Header otherwise it doesn't 
-
-   
-
-## Technical
+## Books Read - Technical 
 + [Code Complete Second Edition](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670)
 + [C# 4.0 in a Nutshell, 4th Edition](http://shop.oreilly.com/product/9780596800963.do)
 + Mastering Object-oriented Python
 + Mastering Python Data Visualization
 + [SRE Site Reliability Engineering](https://landing.google.com/sre/book/index.html) 
 
-## Self Improvement
+## Books Read - Self Improvement or food for thought
 + [The 4-hour work week](https://fourhourworkweek.com/)  Timothy Ferris
 + [Rework](https://www.audible.com.au/t2/title?asin=B00FO0S8QY&source_code=M2MORSH042115001Z&gclid=Cj0KCQjw_ZrXBRDXARIsAA8KauTrp1fVvxL5OkGBG0EIZ337Gc2eIV-UrwneuTySwd3iao7wsvLnT7saAluZEALw_wcB&gclsrc=aw.ds) Jason Fried, David Heinemeier Hansson
-+ 
++ [Surely you must be joking, Mr Feynman!](https://en.wikipedia.org/wiki/Surely_You%27re_Joking,_Mr._Feynman!)
 
 ## Books to read
-    Practical Monitoring by Mike Julian
++ [Practical Monitoring](http://shop.oreilly.com/product/0636920050773.do) by Mike Julian
++ [The Obstacle is the way](https://books.google.co.nz/books/about/The_Obstacle_is_the_Way.html?id=2S0lAwAAQBAJ&source=kp_cover&redir_esc=y)
++ [First to the top](https://www.amazon.com/First-Top-Hillarys-Amazing-Adventure/dp/0143506870)
++ [The Four Agreements](https://g.co/kgs/zAJsHz)
 
 ## Fiction
 + [Discworld Series](https://en.wikipedia.org/wiki/Terry_Pratchett) * Some of
-+ []()
++ [The Banned and the Banished](https://en.wikipedia.org/wiki/The_Banned_and_the_Banished) - [James Clemens](https://en.wikipedia.org/wiki/James_Rollins)
++ [The Wheel of Time](https://en.wikipedia.org/wiki/The_Wheel_of_Time) - [Robert Jordan](https://en.wikipedia.org/wiki/Robert_Jordan)
 
 ### [The Sword of Truth](https://en.wikiquote.org/wiki/Sword_of_Truth#Wizard's_Rules)
 1. "People are stupid; given proper motivation, almost anyone will believe almost anything. Because people are stupid, they will believe a lie because they want to believe it's true, or because they're afraid it might be true. Peoples' heads are full of knowledge, facts and beliefs, and most of it is false, yet they think it all true. People are stupid; they can only rarely tell the difference between a lie and the truth, and yet they are confident they can, and so are all the easier to fool." - Wizard's First Rule, page 560
@@ -52,12 +45,4 @@ Confessor, Chapter 65, page
 + "You can destroy those who speak the truth, but you cannot destroy the truth itself." - The Omen Machine, Chapter 70, page 446
 + “There have always been those who hate, and there always will be.” - Severed Souls, Chapter 47, page 306
 + “In this world, everyone must die. None of us has any choice in that. Our choice is how we wish to live.” - Warheart, Chapter 52, page 389
-
-
-# Shell snippets
-## Generate Password
-```
-export PASSWORD=`openssl rand -base64 15`; echo "Your password is $PASSWORD"; sed -i.bak s#CHANGE_ME#$PASSWORD# replacefile
-```
-I used to use ```apg -n 20 -m 20```
 
