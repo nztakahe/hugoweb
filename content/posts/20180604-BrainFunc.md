@@ -11,3 +11,7 @@ I have been wondering if the low carb, high fat diet and the impact the lack of 
 + [Does our brain suddenly need an alternative fuel to glucose when we hit middle ageor even sooner](https://www.mithustoroni.com/single-post/2015/08/18/Does-our-brain-suddenly-need-an-alternative-fuel-to-glucose-when-we-hit-middle-ageor-even-sooner)
 + [Trampoline Boosting Brain](https://www.airriderz.com/mississauga/blog/4-brain-boosting-benefits-of-trampoline-jumping/)
 
+## Apps
+[Lumosity](https://www.lumosity.com/)
+
+
