@@ -19,3 +19,11 @@ While teaching my son, my parents - his grand parents - thinking what it might h
 {{< figure src="/20180211/Scratch.jpg" title="Learning Scratch figure" class="center" width="600"  >}}
 
 Thankfully I never had to learn [LOGO](https://en.wikipedia.org/wiki/Logo_(programming_language)).
+
+
+
+## Update
+Book How to code by Max Wainewright
+
+[lightbot](http://lightbot.com/flash.html)
+[makeymakey](https://makeymakey.com/)
