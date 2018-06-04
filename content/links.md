@@ -20,6 +20,8 @@ date: 2018-01-01T12:00:00+13:00
 5. Seek before you ask
 6. Optimize for simplicity
 
+[Wait By Why](https://waitbutwhy.com/2018/04/picking-career.html) - [Found Tim Urben thru](https://tim.blog/2017/11/30/managing-procrastination-predicting-the-future-and-finding-happiness/)
+
 
 ## Random
 [Uncle Bob](https://www.youtube.com/watch?v=ecIWPzGEbFc)  Some history of software development - Uncle bob!
