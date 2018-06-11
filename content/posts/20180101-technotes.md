@@ -14,10 +14,13 @@ draft: true
 ```
 
 ## Shell snippets
+Some notes
+ 
 ### Generate Password
 ```
 export PASSWORD=`openssl rand -base64 15`; echo "Your password is $PASSWORD"; sed -i.bak s#CHANGE_ME#$PASSWORD# replacefile
 ```
-I used to use ```apg -n 20 -m 20```
+I used to use
+ ```apg -n 20 -m 20```
 
 
