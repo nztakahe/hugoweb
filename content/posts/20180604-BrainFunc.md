@@ -4,11 +4,11 @@ date: 2018-06-04T12:00:00+13:00
 draft: true
 ---
 # Intro
-I have been wondering if the low carb, high fat diet and the impact the lack of sugar\glucose has any impact on brain function.  
+I had been wondering if the low carb, high fat diet and the impact the lack of sugar\glucose has any impact on brain function.  
 
 So the power of Google provided a couple of reassuring answers relating to ketosis.  [Scientific American](https://blogs.scientificamerican.com/mind-guest-blog/the-fat-fueled-brain-unnatural-or-advantageous/) article explains that Ketosis has alot of positive benefits.   Later i found the article about [brain fog](https://draxe.com/brain-fog/) showed that serotonin drops due to a very low carbohydrate intake.
 
-So significantly reducing carbs but not being in it to ketosis could lead to the brain fog. 
+So if you are suffering brain fog after significantly reducing carbs probably means not being in ketosis. 
 
 
 ## Links
