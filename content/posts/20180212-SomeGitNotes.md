@@ -19,12 +19,19 @@ git config --global core.autocrlf true
  - warning: LF will be replaced by CRLF in teset.js.
  - The file will have its original line endings in your working directory
 
+```
+git config --global user.name "Michael Menzies"
+git config --global user.email "michael@dwarfstar.co.nz"
+
+```
+
 ## Windows 10 Bash
 Windows 10 bash files are stored %userprofile%\AppData\Local\lxss.
 From the bash windows accessing the windows filesystem is done via /mnt/c/Users/XXXXX
 
 ## SSH Keys
 Windows Command Prompt and Git Bash sshkeys are stored in %USERPROFILE%\.sshkeys 
+
 
 ## Git Branch to prompt 
 [prompt link](https://sujipthapa.co/blog/git-pro-tip-show-your-branch-on-linux-ubuntu-terminal)
