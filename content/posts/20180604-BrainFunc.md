@@ -22,6 +22,7 @@ So if you are suffering brain fog after significantly reducing carbs probably me
 [Lumosity](https://www.lumosity.com/)
 
 ## Books
+Heart Math
 
 ## Depression
 [Wil Wheaton](https://medium.com/@wilw/my-name-is-wil-wheaton-i-live-with-chronic-depression-and-generalized-anxiety-i-am-not-ashamed-8f693f9c0af1)
