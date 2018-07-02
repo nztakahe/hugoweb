@@ -23,13 +23,9 @@ So significantly reducing carbs but not being in it to ketosis could lead to the
 
 ## Books
 
-<<<<<<< HEAD
-
 ## Depression
 [Wil Wheaton](https://medium.com/@wilw/my-name-is-wil-wheaton-i-live-with-chronic-depression-and-generalized-anxiety-i-am-not-ashamed-8f693f9c0af1)
-=======
 ### Hormones
 [Serotonin](https://en.wikipedia.org/wiki/Serotonin) the good sleep. 
 [Cortisol](https://en.wikipedia.org/wiki/Cortisol) is released to stress.
 [Dopamine](https://en.wikipedia.org/wiki/Dopamine) affects emotions and sensations of pleasure and pain.
->>>>>>> BrainFunction
